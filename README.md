@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1 align="center">osTicket - Post-Install Configuration</h1>
+<h1 align="center">osTicket - Post-Installation Configuration</h1>
 This guide walks you through the post-install configuration of the open-source help desk system, osTicket. This assumes you have already completed the installation process, set up login credentials, and performed any necessary clean-up following the osTicket Prerequisites and Installation guide.
 
 ---
